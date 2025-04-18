@@ -1,3 +1,5 @@
+https://github.com/ajmatson/ChaCrypt/blob/master/images/logo.png
+
 # ChaCrypt - Secure File Encryption and Decryption using ChaCha20
 
 ChaCrypt is a lightweight and secure encryption/decryption tool designed to encrypt and decrypt files using the ChaCha20 algorithm. The application supports both CLI (Command Line Interface) and GUI (Graphical User Interface) for easy use across various platforms including Linux, Windows, and macOS.

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=ChaCrypt
+Comment=Encrypt and Decrypt Files using ChaCha20
+Exec=python3 ChaCrypt.py
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Utility;

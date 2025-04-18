@@ -28,45 +28,9 @@ ChaCrypt is a lightweight and secure encryption/decryption tool designed to encr
 
 ### Prerequisites
 
-Ensure that you have the following installed:
+All pre-reqisits are written in the script to pull/install.
 
-- Python 3.x
-- pip (Python's package installer)
-- Tkinter (for GUI support)
 
-#### For Linux/MacOS
-
-Install Python and Tkinter:
-
-```bash
-sudo apt update
-sudo apt install python3 python3-pip python3-tk
-```
-
-#### For Windows
-
-Python 3 includes Tkinter by default. Ensure Python is installed.
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/ajmatson/ChaCrypt.git
-cd ChaCrypt
-```
-
-### Step 2: Create a Virtual Environment (Optional but Recommended)
-
-```bash
-python3 -m venv venv
-source venv/bin/activate    # Linux/MacOS
-venv\Scripts\activate.bat  # Windows
-```
-
-### Step 3: Install Required Dependencies
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 
@@ -82,17 +46,14 @@ python3 ChaCrypt.py <file_path>
 
 ### Windows GUI
 
-- Double-click `ChaCrypt.py` or create a shortcut to run it.
+- Double-click `ChaCrypt.bat` or create a shortcut to run it.
 - Select the file using the file dialog.
 - Enter and confirm your password.
 - Encrypted or decrypted file will be saved accordingly.
 
 ### Linux GUI
 
-```bash
-python3 ChaCrypt.py
-```
-
+- Double-click ChaCrypt.desktop
 - A GUI window will open to select a file.
 - Enter and confirm the password.
 - Process will complete with file saved as either encrypted or decrypted.

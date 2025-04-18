@@ -1,4 +1,4 @@
-https://github.com/ajmatson/ChaCrypt/blob/master/images/logo.png
+![Logo](https://github.com/ajmatson/ChaCrypt/blob/master/images/logo.png)
 
 # ChaCrypt - Secure File Encryption and Decryption using ChaCha20
 

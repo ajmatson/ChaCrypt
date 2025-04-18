@@ -33,7 +33,7 @@ ChaCrypt is a lightweight and secure encryption/decryption tool designed to encr
 
 ### Prerequisites
 
-All pre-reqisits are written in the script to pull/install.
+All prerequisites are written in the script to pull/install.
 
 
 
